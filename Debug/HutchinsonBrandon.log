@@ -1,0 +1,3 @@
+﻿  roster.cpp
+C:\Users\brand\source\repos\HutchinsonBrandon\roster.cpp(141,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  HutchinsonBrandon.vcxproj -> C:\Users\brand\source\repos\HutchinsonBrandon\Debug\HutchinsonBrandon.exe
